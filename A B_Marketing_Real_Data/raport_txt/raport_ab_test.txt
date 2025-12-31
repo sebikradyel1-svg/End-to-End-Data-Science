@@ -1,0 +1,22 @@
+
+RAPORT EXPERIMENT A/B - OPTIMIZARE CAMPANIE MARKETING
+=====================================================
+Sursa datelor: kaggle_real
+
+CONFIGURAȚIE:
+- Total utilizatori: 588,101
+- Grup Control (psa): 23,524
+- Grup Test (ad): 564,577
+
+REZULTATE:
+- Rata conversie psa: 1.7854%
+- Rata conversie ad: 2.5547%
+- Lift relativ: +43.09%
+
+TESTE STATISTICE:
+- Chi-Pătrat p-value: 0.000000
+- Test Z p-value: 0.000000
+- Permutare p-value: 0.000000
+- Interval de încredere 95%: [0.5951%, 0.9434%]
+
+CONCLUZIE: Diferența este SEMNIFICATIVĂ STATISTIC
