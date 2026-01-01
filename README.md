@@ -27,7 +27,7 @@ This repository showcases my ability to extract actionable insights from raw dat
 - **Expertise:** Predictive Analytics, Statistical Testing, Data Visualization.
 
 ### Visualizing Model Performance
-![Confusion Matrix and ROC Curve](confusion_matrix_roc_curve.png)
+![Confusion Matrix and ROC Curve](plots/confusion_matrix_roc_curve.png)
 ![Market Clusters](plots/k_means_clustering.png)
 ![Elbow Method](plots/elbow_method.png)
 ![Importanec Features](plots/importance_features.png)
